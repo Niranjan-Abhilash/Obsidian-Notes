@@ -15,7 +15,11 @@ Q. A boat travels 30 km downstream and 20 km upstream in 5 hours. The speed of t
 
 Ans.
 		let the speed of the boat be x km/h
-
+		
 		$=> upstream speed = x - 2$
 		$=> downstream speed = x+2$
-		
+
+$Time = distance / speed$
+
+$(30/x+2) - 20/x-2 = 5$
+
