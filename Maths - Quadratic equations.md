@@ -33,3 +33,6 @@ $$
 $$
 	\implies 5x^{2}-50x=0
 $$
+$$
+	\implies x=0 \space\space\text{or}\space\space x = 10 
+$$
