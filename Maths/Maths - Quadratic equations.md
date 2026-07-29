@@ -88,5 +88,8 @@ $$
 	\implies \frac{x+6 - x}{x(x+6)} = \frac{1}{8}
 $$
 $$
-	:))))))()
+	x^{2}+6x = 48 \implies\underline{\underline{x^{2} + 6x-48 = 0 }}
+$$
+$$
+	\therefore x = 
 $$
