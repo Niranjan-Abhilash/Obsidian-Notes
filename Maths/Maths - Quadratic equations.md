@@ -63,5 +63,5 @@ Ans.
 		\implies x^{2} - 14x -120 = 0
 	$$
 	$$
-		\therefore\space x = 
+		\therefore\space x = 20 \space or 
 	$$
