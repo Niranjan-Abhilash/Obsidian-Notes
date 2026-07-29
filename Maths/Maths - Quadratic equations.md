@@ -55,4 +55,13 @@ Ans.
 	$$
 		\frac{1}{x} + \frac{1}{x+10} = \frac{1}{12}
 	$$
-	
+	$$
+		\implies \frac{x+10+x}{x(x+10)} = \frac{1}{12}
+	$$
+	$$
+		\implies x^{2}+10x = 24x+120
+		\implies x^{2} - 14x -120 = 0
+	$$
+	$$
+		\therefore\space x = 
+	$$
