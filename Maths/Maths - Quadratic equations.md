@@ -36,3 +36,8 @@ $$
 $$
 	\implies x=0 \space\space\text{or}\space\space x = 10 
 $$
+
+## Men and work
+
+- Work = rate $*$ time 
+- If one man takes x days to complete work, the one day's work is 

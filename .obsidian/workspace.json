@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths - Quadratic equations.md",
+                "file": "Maths/Maths - Quadratic equations.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5047149658203,
-    "collapsed": true
+    "width": 283.5047149658203
   },
   "right": {
     "id": "8be1decae5085714",
@@ -206,9 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7be842bec6441bb",
+  "active": "2c3edd887722e6d0",
   "lastOpenFiles": [
+    "Maths",
     "2026-W31.md",
-    "Maths - Quadratic equations.md"
+    "Maths/Maths - Quadratic equations.md"
   ]
 }

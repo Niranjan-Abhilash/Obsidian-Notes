@@ -8,5 +8,11 @@
   "Editor@@editor-grid-background-pattren": false,
   "Components@@tab-autohide": true,
   "Components@@status-bar-autohide": false,
-  "Components@@Ribbon-autohide": true
+  "Components@@Ribbon-autohide": true,
+  "Components@@nav-header-autohide": true,
+  "Components@@tab-title-bar-autohide": false,
+  "Components@@vault-profile-autohide": false,
+  "Components@@CTA-BTN-enable": true,
+  "Components@@folder-font-bold": false,
+  "Components@@colorful-folder": true
 }
