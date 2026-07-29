@@ -78,4 +78,15 @@ Q. A tap fills a tank in x hours. Another tap empties it in x + 6 hours. Togethe
 
 Ans. 
 
-let 
+one hour filling = $1/x$
+one hour emptying = $1/x+6$
+
+$$
+	\implies \frac{1}{x} - \frac{1}{x+6} = \frac{1}{8}
+$$
+$$
+	\implies \frac{x+6 - x}{x(x+6)} = \frac{1}{8}
+$$
+$$
+	:))))))()
+$$
