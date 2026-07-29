@@ -68,4 +68,14 @@ Ans.
 
 ## Tap
 
-- Think of ta
+- Think of taps as worker
+- Filling tap = $+1/x$ 
+- Emptying tap = $-1/x$
+
+#### Example
+
+Q. A tap fills a tank in x hours. Another tap empties it in x + 6 hours. Together they fill the tank in 8 hours. Form the quadratic equation.
+
+Ans. 
+
+let 
