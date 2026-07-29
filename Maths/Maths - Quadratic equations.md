@@ -36,8 +36,7 @@ $$
 	\implies x=0 \space\space\text{or}\space\space x = 10 
 $$
 
-
-
+<br>
 ## Men and work
 
 - Work = rate $*$ time 
@@ -65,15 +64,14 @@ Ans.
 	$$
 		\therefore\space x = 20 \space or \space x= -6
 	$$
+<br>
 
-
-
+<br>
 ## Tap
 
 - Think of taps as worker
 - Filling tap = $+1/x$ 
 - Emptying tap = $-1/x$
-
 #### Example
 
 Q. A tap fills a tank in x hours. Another tap empties it in x + 6 hours. Together they fill the tank in 8 hours. Form the quadratic equation.
@@ -81,7 +79,7 @@ Q. A tap fills a tank in x hours. Another tap empties it in x + 6 hours. Togethe
 Ans. 
 
 one hour filling = $1/x$
-one hour emptying = $1/x+6$
+one hour emptying = $1/(x+6)$
 
 $$
 	\implies \frac{1}{x} - \frac{1}{x+6} = \frac{1}{8}
@@ -97,6 +95,11 @@ $$
 
 $$
 
+
+
+<br>
+
+<br>
 ## PATTERN
 
 | Problem type        | Equation pattern                       |
