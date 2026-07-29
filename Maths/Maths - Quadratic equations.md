@@ -63,5 +63,9 @@ Ans.
 		\implies x^{2} - 14x -120 = 0
 	$$
 	$$
-		\therefore\space x = 20 \space or 
+		\therefore\space x = 20 \space or \space x= -6
 	$$
+
+## Tap
+
+- Think of ta
