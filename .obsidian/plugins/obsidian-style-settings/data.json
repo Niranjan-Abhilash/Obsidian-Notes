@@ -1,0 +1,12 @@
+{
+  "Appearance-dark@@card-layout-open-dark": false,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-default",
+  "Appearance-dark@@accent-dark": "#D46923",
+  "Appearance-dark@@accent-color-override-dark": false,
+  "Editor@@text-align-justify": true,
+  "Editor@@collapse-icon-restore": true,
+  "Editor@@editor-grid-background-pattren": false,
+  "Components@@tab-autohide": true,
+  "Components@@status-bar-autohide": false,
+  "Components@@Ribbon-autohide": true
+}
