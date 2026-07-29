@@ -21,5 +21,9 @@ Ans.
 
 $Time = distance / speed$
 
-$(30/x+2) - 20/x-2 = 5$
-
+$$
+	\frac{30}{x+2} + \frac{20}{x-2} = 5
+$$
+$$
+	\implies \frac{30 x-60+20x+40}{}
+$$

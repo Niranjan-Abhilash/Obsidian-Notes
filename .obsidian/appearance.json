@@ -4,7 +4,7 @@
   "cssTheme": "",
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "Inter",
-  "baseFontSize": 18,
+  "baseFontSize": 24,
   "baseFontSizeAction": true,
   "nativeMenus": false
 }
