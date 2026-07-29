@@ -8,7 +8,6 @@
 
 - Downstream speed = speed of boat + speed of stream
 - Upstream speed = speed of boat  - speed of stream
-
 #### Example
 
 Q. A boat travels 30 km downstream and 20 km upstream in 5 hours. The speed of the stream is 2 km/h. Form the quadratic equation.
@@ -37,11 +36,12 @@ $$
 	\implies x=0 \space\space\text{or}\space\space x = 10 
 $$
 
+
+
 ## Men and work
 
 - Work = rate $*$ time 
 - If one man takes x days to complete work, the one day's work is $\frac{1}{x}$
-
 #### Example
 
 Q. A man and a woman together can complete a work in 12 days. The woman alone takes 10 days more than the man. Form the quadratic equation.
@@ -65,6 +65,8 @@ Ans.
 	$$
 		\therefore\space x = 20 \space or \space x= -6
 	$$
+
+
 
 ## Tap
 
@@ -91,5 +93,14 @@ $$
 	x^{2}+6x = 48 \implies\underline{\underline{x^{2} + 6x-48 = 0 }}
 $$
 $$
-	\therefore x = 
+	\therefore x = -3 \pm \sqrt{ 57 }
+
 $$
+
+## PATTERN
+
+| Problem type        | Equation pattern                       |
+| ------------------- | -------------------------------------- |
+| Upstream/downstream | distance/(x+s) + distance/(x−s) = time |
+| Men and work        | 1/x ± 1/(x+a) = total work rate        |
+| Taps                | 1/x ± 1/(x+a) = tank filling rate      |
