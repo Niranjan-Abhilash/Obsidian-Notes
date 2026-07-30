@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "bf5b1ff241357408",
@@ -219,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc530b08c4525e86",
+  "active": "11390bfe07c2b81d",
   "lastOpenFiles": [
     "Maths/Maths - Quadratic equations.md",
     "English/Grammar - Reported speech.md",
