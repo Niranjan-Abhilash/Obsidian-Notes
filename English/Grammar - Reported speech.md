@@ -70,3 +70,15 @@ Use to + verb.
 - “Do not waste time.”
 - He advised me not to waste time.
 
+### Exclamations
+
+Remove the exclamation mark and use words like exclaimed with joy, sorrow, surprise, admiration, etc.
+
+##### Examples
+- She said, “What a beautiful flower!”
+- She exclaimed with admiration that it was a very beautiful flower.
+___
+- He said, “Alas! I have lost my wallet.”
+- He exclaimed with sorrow that he had lost his wallet.
+
+#### **If the reporting verb is in the present or future tense, the tense usually remains the same.**
