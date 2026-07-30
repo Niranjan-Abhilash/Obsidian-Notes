@@ -101,3 +101,5 @@ $$
 | Upstream/downstream | distance/(x+s) + distance/(x−s) = time |
 | Men and work        | 1/x ± 1/(x+a) = total work rate        |
 | Taps                | 1/x ± 1/(x+a) = tank filling rate      |
+
+more on [[]]
