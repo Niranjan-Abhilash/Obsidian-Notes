@@ -92,14 +92,8 @@ $$
 $$
 $$
 	\therefore x = -3 \pm \sqrt{ 57 }
-
 $$
 
-
-
-<br>
-
-<br>
 ## PATTERN
 
 | Problem type        | Equation pattern                       |
